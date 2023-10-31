@@ -28,4 +28,4 @@ butInstall.addEventListener('click', async () => {
 window.addEventListener('appinstalled', (event) => {
     //clear the deferredPrompt
     window.deferredPrompt = null;
-});
+}); 
