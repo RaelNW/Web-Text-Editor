@@ -1,18 +1,17 @@
 # Web-Text-Editor
 
 This application provides a seamless and convenient way to create, modify, and manage text content without the need for external software, enhancing the overall text editing experience
-Certainly, you can create a README for your text editor web application based on the provided user stories. Here's a template for your README:
 
 # Table of Contents
 
 1. [User Stories](#user-stories)
-2. [Getting Started](#getting-started)
-   - [Installation](#installation)
-   - [Usage](#usage)
-3. [Technologies Used](#technologies-used)
-4. [Contributors](#contributors)
-5. [License](#license)
-6. [Acknowledgments](#acknowledgments)
+2. [Acceptance Criteria](#acceptance-criteria)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Technologies Used](#technologies-used)
+6. [Contributors](#contributors)
+7. [License](#license)
+8. [Links](#links)
 
 ## User Stories
 
@@ -48,7 +47,7 @@ SO THAT I can reliably retrieve them for later use
 - WHEN I deploy to Heroku
 - THEN I should have proper build scripts for a webpack application
 
-### Installation
+## Installation
 
 1. Clone the repository:
    ```
@@ -61,7 +60,7 @@ SO THAT I can reliably retrieve them for later use
    npm install
    ```
 
-### Usage
+## Usage
 
 1. Run the application:
 
@@ -80,7 +79,7 @@ SO THAT I can reliably retrieve them for later use
 - Next-gen JavaScript
 - HTML and CSS
 
-## Credits
+## Contributors
 
 - For inquiries, please contact Rael Wanjala
 
