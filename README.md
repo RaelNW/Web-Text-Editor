@@ -89,4 +89,7 @@ This project has no license
 ## links
 - Repo https://github.com/RaelNW/Web-Text-Editor
 
-- Heroku 
+- Heroku https://textitnow-6619f5741e70.herokuapp.com/
+- Screeenshot
+ (https://github.com/RaelNW/Web-Text-Editor/assets/125225839/1082c563-297a-4f2c-86cd-a36e91258fa2)
+
